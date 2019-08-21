@@ -8,7 +8,7 @@ describe the nodes.
 
 ## Data Dictionary Structure 
 
-The Data Model covers all of the nodes within the as well as the relationships between
+The Data Model covers all of the nodes within as well as the relationships between
 the different types of nodes. All of the nodes in the data model are strongly typed and individually
 defined for a specific data type. For example, submitted files can come in different forms, such as
 aligned or unaligned reads; within the model we have two separately defined nodes for
